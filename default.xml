@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <!--<remote fetch="ssh://review.tizen.org" name="tizen-gerrit" review="https://review.tizen.org/gerrit"/>
-  <default remote="tizen-gerrit"/>-->
+  <remote fetch="ssh://review.tizen.org" name="tizen-gerrit" review="https://review.tizen.org/gerrit"/>
+  <default remote="tizen-gerrit"/>
   <project name="adaptation/ap_samsung/audio-hal-e4x12" path="adaptation/ap_samsung/audio-hal-e4x12" revision="9cdfea08c8d09c9bd00e3b5ac0fe092b0178848b"/>
   <project name="adaptation/ap_samsung/device-manager-plugin-exynos" path="adaptation/ap_samsung/device-manager-plugin-exynos" revision="9f9c6c5198c1d548f8c2e31edb7f1cd1472574b2"/>
   <project name="adaptation/ap_samsung/gst-plugins-e4x12" path="adaptation/ap_samsung/gst-plugins-e4x12" revision="1e679237a3dd4898fc824ac9305b6eb73ed6bb47"/>
